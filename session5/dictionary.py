@@ -20,7 +20,7 @@
 #     'subjects':{
 #         'dsa':50,
 #         'maths':70,
-#         'english':80
+#         'english':80p
 #     }
 # }
 # print(s)

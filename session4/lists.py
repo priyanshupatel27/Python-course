@@ -107,3 +107,10 @@ that are :-
 1. Arithemtic operator + *
 2. Membership  in/not in
 3. loop"""
+
+# l2 = [3,4,5,[5,6,7,[9,10]]]
+# # print(l2[::-1])
+# # print(8 in l2)
+# print(len(l2))
+# print(sort(l2))
+
