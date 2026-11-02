@@ -63,6 +63,10 @@ def display(**kwargs):
    for (key,value) in kwargs.items():
       print(key,"->",value)
 
+
+
+      
+
 print(display(india = "delhi", srilanka = "colombo",nepal = "katmandu"))
 
 #the words args and kwargs are user defined names
